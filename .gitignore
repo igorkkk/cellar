@@ -41,3 +41,9 @@ luac.out
 
 cellar.code-workspace
 .gitignore
+.vscode/auto.ps1
+.vscode/ftp.txt
+.vscode/http.txt
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
